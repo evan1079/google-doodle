@@ -6,3 +6,4 @@ A Google Doodle to celebrate Film. We will celebrate film by going to the beging
 [Link to Figma Collage](https://www.figma.com/file/Wp9GkAO1VVSmZ1tpMEbaL5/Google-Doodle?node-id=0%3A1)
 
 ## Resources
+[Raleway Font](https://fonts.google.com/specimen/Raleway)
